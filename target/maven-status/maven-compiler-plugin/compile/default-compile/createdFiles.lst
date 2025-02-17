@@ -1,0 +1,9 @@
+com\user\Config\SwaggerConfig.class
+com\user\Entity\UserAccount.class
+com\user\UserCrudServiceApplication.class
+com\user\Binding\UserForm.class
+com\user\Repository\UserRepo.class
+com\user\ServletInitializer.class
+com\user\Service\IUserService.class
+com\user\Controller\UserController.class
+com\user\Service\UserServiceImpl.class
